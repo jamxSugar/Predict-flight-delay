@@ -2,7 +2,7 @@
 
 ### Coursework of Predictive Model and Analysis
 
-**Based on a [dataset](https://community.amstat.org/jointscsg-section/dataexpo/dataexpo2009) that consists of arrival and departure details from all the flights ✈ within the US domestic market for the year 2008, this project aims to extract valuable insights and build basic models to predict flight delays. **
+**Based on a [dataset](https://community.amstat.org/jointscsg-section/dataexpo/dataexpo2009) that consists of arrival and departure details from all the flights ✈ within the US domestic market for the year 2008, this project aims to extract valuable insights and build basic models to predict flight delays.**
 
 Since flights cancellation were very rare, with only 633 out of 1936758 flights cancelled in the whole year, we build models to predict only flight delays and provide accuracy details. The model can help us figure out what makes an airline delay, and how to improve their air routes. 
 
